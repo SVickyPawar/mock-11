@@ -1,0 +1,22 @@
+{
+    "doctors": [
+    
+    ],
+
+    "patients":[
+        {
+            "name":"Vivek",
+            "gender":"male",
+            "age":23,
+            "medicines":[{
+                "name":"Dolo-650",
+                "qty":15
+            },
+             {
+            "name":"crocin",
+            "qty":6
+             }]
+
+        }
+    ]
+}
